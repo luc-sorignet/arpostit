@@ -1,0 +1,22 @@
+<listPostIt>
+    <postit>
+        <color>#FDEE21</color>
+        <title>Bonjour01</title>
+        <content>Je suis un postIt</content>
+    </postit>
+    <postit>
+        <color>#62C46F</color>
+        <title>Essaye!02</title>
+        <content>La RA c&apos;est vraiment sympas!</content>
+    </postit>
+    <postit>
+        <color>#E0E54B</color>
+        <title>Move Me03</title>
+        <content>Passe à l&apos;autre PostIt :)</content>
+    </postit>
+    <postit>
+        <color>#FBB03B</color>
+        <title>Bien jouer!04</title>
+        <content>:) :) :)</content>
+    </postit>
+</listPostIt>
