@@ -1,6 +1,0 @@
-ofx3DModelLoader
-ofxGui
-ofxNetwork
-ofxOpenCv
-ofxThreadedImageLoader
-ofxARToolkitPlus
